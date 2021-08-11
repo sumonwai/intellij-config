@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping ext="psql" type="PLAIN_TEXT" />
+      <mapping ext="feature" type="PLAIN_TEXT" />
+      <mapping ext="mustache" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

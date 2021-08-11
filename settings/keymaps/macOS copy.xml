@@ -1,0 +1,11 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ChangesView.Move" />
+  <action id="CheckinProject" />
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
+</keymap>
